@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "tersten_yazma/1.0.0": {
+        "runtime": {
+          "tersten_yazma.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tersten_yazma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

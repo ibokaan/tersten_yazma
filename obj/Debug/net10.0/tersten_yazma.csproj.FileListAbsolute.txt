@@ -1,0 +1,14 @@
+C:\Users\ibokaan\tersten_yazma\bin\Debug\net10.0\tersten_yazma.exe
+C:\Users\ibokaan\tersten_yazma\bin\Debug\net10.0\tersten_yazma.deps.json
+C:\Users\ibokaan\tersten_yazma\bin\Debug\net10.0\tersten_yazma.runtimeconfig.json
+C:\Users\ibokaan\tersten_yazma\bin\Debug\net10.0\tersten_yazma.dll
+C:\Users\ibokaan\tersten_yazma\bin\Debug\net10.0\tersten_yazma.pdb
+C:\Users\ibokaan\tersten_yazma\obj\Debug\net10.0\tersten_yazma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibokaan\tersten_yazma\obj\Debug\net10.0\tersten_yazma.AssemblyInfoInputs.cache
+C:\Users\ibokaan\tersten_yazma\obj\Debug\net10.0\tersten_yazma.AssemblyInfo.cs
+C:\Users\ibokaan\tersten_yazma\obj\Debug\net10.0\tersten_yazma.csproj.CoreCompileInputs.cache
+C:\Users\ibokaan\tersten_yazma\obj\Debug\net10.0\tersten_yazma.dll
+C:\Users\ibokaan\tersten_yazma\obj\Debug\net10.0\refint\tersten_yazma.dll
+C:\Users\ibokaan\tersten_yazma\obj\Debug\net10.0\tersten_yazma.pdb
+C:\Users\ibokaan\tersten_yazma\obj\Debug\net10.0\tersten_yazma.genruntimeconfig.cache
+C:\Users\ibokaan\tersten_yazma\obj\Debug\net10.0\ref\tersten_yazma.dll
